@@ -1,6 +1,6 @@
 # Length of Stay Analysis.
 
-This is the project for the course fundamental of data science. 
+This is the project for the course 'Fundamentals of Data Science' (Fall 2021). 
 
 Performed data analysis on length of stay of patients in different hopitals of different cities. This dataset is publicly available on kaggle. 
 
